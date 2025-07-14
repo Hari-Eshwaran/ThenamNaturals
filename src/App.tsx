@@ -136,7 +136,7 @@ function App() {
                 <span className="text-2xl font-bold text-white">H</span>
               </div>
               <h4 className="text-xl font-semibold text-[#5C4328] mb-2">Harishwaran P</h4>
-              <p className="text-[#DD8142] font-medium mb-2">Owner</p>
+              <p className="text-[#DD8142] font-medium mb-2">Owner & CEO</p>
               <p className="text-sm text-[#A99E8B]">Leading the vision for pure, natural products</p>
             </div>
             
